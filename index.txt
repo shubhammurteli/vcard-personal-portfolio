@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Shubham Murteli
+Shubham Murteli
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+shubhammurteli19@gmail.com
 
 Phone
 +1 (213) 352-2795
 
 Birthday
-June 23, 1982
+June 23, 2000
 
 Location
-Sacramento, California, USA
+Pune, Maharashtra, India
 
 # navbar
 
